@@ -1,0 +1,14 @@
+.openapi-generator-ignore
+README.md
+build.gradle.kts
+pom.xml
+settings.gradle
+src/main/kotlin/to/dev/petstoreapi/Application.kt
+src/main/kotlin/to/dev/petstoreapi/api/ApiUtil.kt
+src/main/kotlin/to/dev/petstoreapi/api/Exceptions.kt
+src/main/kotlin/to/dev/petstoreapi/api/PetsApi.kt
+src/main/kotlin/to/dev/petstoreapi/api/PetsApiController.kt
+src/main/kotlin/to/dev/petstoreapi/api/PetsApiDelegate.kt
+src/main/kotlin/to/dev/petstoreapi/model/ErrorDto.kt
+src/main/kotlin/to/dev/petstoreapi/model/PetDto.kt
+src/main/resources/application.yaml
